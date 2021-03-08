@@ -1,7 +1,5 @@
 <h1 align="center">🍄 VAMO AI - Resilia + iFood 🍄 </h1> 
 
-
-***
 ## Objetivo 📖
 
 
