@@ -90,4 +90,4 @@ def complete_series(seq):
     return lista2
 
 
-print(complete_series([3,4, 4,5]))
+print(complete_series([3,4,4,5]))
