@@ -94,3 +94,37 @@ def conta_letras(string):
         return dic
 
 print(conta_letras("aAAbBbbb"))
+
+#questao 7
+print("Questão 8 --------------------------")
+def ordena_dicionario(dicionario):
+  if dicionario == {}:
+    dic ={}
+    return dic
+  else:
+    dic = {}
+    
+    lista_chaves = []
+    for i in dicionario:
+        lista_chaves.append(i)
+    print(lista_chaves) 
+
+    lista_valores = []
+    for i in dicionario.values():
+        lista_valores.append(i)
+    print(lista_valores)
+    
+    lista_ordenada = []
+    for i in range(0,len(lista_valores)):
+        print(i)
+        if i == 0:
+            lista_ordenada.append(lista_valores[0])
+            print("lista ordenada: ",lista_ordenada)
+        elif lista_valores
+    #     valores = dicionario.values()
+    #     n = 0
+    #     for valor in valores:
+    #         if n < valor:
+    #             dic[dicionario[i]] = dicionario[i]
+        
+ordena_dicionario({"a": 2, "b": 2, "c": 1})
