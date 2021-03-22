@@ -139,4 +139,3 @@ def procura_chave_na_lista(dicionario):
 
 print(procura_chave_na_lista({"a": ["a", "b", "c"], "b": [1, 2, 3, "b"]}))
 
-  
