@@ -91,3 +91,12 @@ def complete_series(seq):
 
 
 print(complete_series([3,4,4,5]))
+
+
+fila_prioridade = [18, 23, 65, 89]
+fila_normal = []
+for i in fila_prioridade:
+    if i <= 65:
+        item = remove(fila_prioridade)
+        adiciona(fila_normal, item)
+print(fila_prioridade, fila_normal)
