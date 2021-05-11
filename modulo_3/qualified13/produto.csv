@@ -1,0 +1,1001 @@
+id,nome,preco
+1,Apple - Northern Spy,10.81
+2,Salt - Table,1.47
+3,Muffin Mix - Morning Glory,49.95
+4,"Iced Tea - Lemon, 460 Ml",16.31
+5,Star Fruit,36.78
+6,Butter Balls Salted,16.51
+7,Bagel - Plain,3.36
+8,Bread - Bistro White,16.23
+9,Cassis,8.13
+10,Sprouts - Peppercress,3.78
+11,Lettuce - Arugula,38.52
+12,Cranberries - Frozen,45.81
+13,Salmon - Fillets,22.58
+14,Longos - Penne With Pesto,29.37
+15,"Quail - Eggs, Fresh",37.5
+16,Curry Paste - Madras,36.93
+17,Buffalo - Tenderloin,14.01
+18,"Apple - Delicious, Golden",10.29
+19,Clementine,25.49
+20,Muffin Hinge Container 6,29.41
+21,Wine - Rosso Toscano Igt,7.19
+22,Irish Cream - Baileys,8.24
+23,Cherries - Fresh,34.86
+24,"Turkey - Breast, Boneless Sk On",3.45
+25,"Nut - Pecan, Halves",24.11
+26,"Apple - Delicious, Red",38.22
+27,Pasta - Ravioli,28.47
+28,V8 - Tropical Blend,9.04
+29,Bar Nature Valley,13.48
+30,Cookie - Oreo 100x2,14.01
+31,Grand Marnier,23.94
+32,"Beans - Black Bean, Dry",5.31
+33,Beer - Muskoka Cream Ale,4.21
+34,Pepper Squash,9.02
+35,"Sprite, Diet - 355ml",37.69
+36,Wine - Bouchard La Vignee Pinot,40.16
+37,"Beef - Outside, Round",1.79
+38,"Pepper - Paprika, Hungarian",25.67
+39,Tandoori Curry Paste,5.86
+40,"Oil - Food, Lacquer Spray",29.96
+41,"Beef - Rouladin, Sliced",11.46
+42,Chocolate Bar - Coffee Crisp,35.42
+43,Skewers - Bamboo,14.33
+44,Ketchup - Tomato,8.12
+45,Olives - Nicoise,22.34
+46,Sprouts Dikon,36.44
+47,Island Oasis - Magarita Mix,38.8
+48,"Coconut - Shredded, Sweet",44.73
+49,"Pail - 4l White, With Handle",14.78
+50,Mcguinness - Blue Curacao,4.82
+51,Appetizer - Seafood Assortment,25.26
+52,Pastry - Chocolate Chip Muffin,9.58
+53,Food Colouring - Pink,48.53
+54,Coffee Decaf Colombian,8.39
+55,"Wine - White, Pelee Island",5.09
+56,"Tarragon - Primerba, Paste",28.66
+57,Yoplait - Strawbrasp Peac,45.26
+58,"Doilies - 7, Paper",40.81
+59,Potato - Sweet,11.81
+60,Squash - Sunburst,44.39
+61,Grapefruit - White,4.61
+62,Sauce - Ranch Dressing,15.12
+63,Devonshire Cream,24.32
+64,Spice - Pepper Portions,21.55
+65,Blue Curacao - Marie Brizard,2.97
+66,"Red Snapper - Fillet, Skin On",25.21
+67,Cake - Pancake,37.71
+68,Pork - Smoked Kassler,49.51
+69,Sprouts - Onion,43.44
+70,Carbonated Water - Lemon Lime,22.81
+71,Nori Sea Weed,7.37
+72,"Wine - Magnotta, White",30.92
+73,Saskatoon Berries - Frozen,43.14
+74,"Wine - Red, Metus Rose",35.95
+75,Beef Ground Medium,47.89
+76,Wine - Port Late Bottled Vintage,40.89
+77,Kellogs Special K Cereal,19.27
+78,Tomatoes Tear Drop Yellow,26.44
+79,Wine - Cabernet Sauvignon,15.92
+80,Chicken - Livers,49.71
+81,"Peas - Pigeon, Dry",40.07
+82,Wine - Rioja Campo Viejo,10.75
+83,Cookie Trail Mix,33.03
+84,Lettuce - Belgian Endive,41.35
+85,Mousse - Banana Chocolate,11.05
+86,Piping Jelly - All Colours,49.87
+87,Extract - Rum,13.49
+88,Cheese - Ermite Bleu,16.64
+89,Carbonated Water - Blackcherry,20.62
+90,Salmon - Sockeye Raw,37.22
+91,Muffin Mix - Carrot,23.23
+92,"Coffee - Beans, Whole",27.15
+93,Muffin - Mix - Strawberry Rhubarb,10.99
+94,Cookie Dough - Chunky,24.78
+95,Cookies - Englishbay Oatmeal,21.03
+96,Beef - Tenderloin,28.48
+97,Lobak,32.63
+98,Corn Syrup,31.76
+99,"Potatoes - Purple, Organic",11.1
+100,"Pork - Bacon,back Peameal",23.43
+101,Chocolate Liqueur - Godet White,48.84
+102,Wine - Cave Springs Dry Riesling,34.88
+103,"Bread - Pumpernickle, Rounds",49.22
+104,Appetizer - Cheese Bites,36.73
+105,Table Cloth - 53x69 Colour,1.65
+106,"Appetizer - Mini Egg Roll, Shrimp",18.85
+107,Soho Lychee Liqueur,8.03
+108,Sugar - Cubes,23.89
+109,Truffle Cups - Brown,34.95
+110,Vinegar - White Wine,21.02
+111,Crab Meat Claw Pasteurise,31.35
+112,Lettuce - Spring Mix,11.78
+113,Muffin - Mix - Strawberry Rhubarb,3.87
+114,Tomatoes - Hot House,22.19
+115,Truffle Cups - White Paper,7.78
+116,"Veal - Inside, Choice",1.81
+117,Soup - Chicken And Wild Rice,39.31
+118,"Veal - Brisket, Provimi, Bone - In",23.52
+119,Wine - Chateau Timberlay,43.76
+120,Wine - Coteaux Du Tricastin Ac,13.95
+121,Juice - Ocean Spray Kiwi,29.21
+122,Cream Of Tartar,23.1
+123,Magnotta Bel Paese Red,31.13
+124,Towels - Paper / Kraft,3.49
+125,Buffalo - Short Rib Fresh,22.65
+126,Silicone Parch. 16.3x24.3,4.34
+127,Pastrami,45.35
+128,Oven Mitt - 13 Inch,43.3
+129,Cheese - Bocconcini,7.06
+130,Duck - Whole,37.74
+131,Whmis Spray Bottle Graduated,36.53
+132,V8 Splash Strawberry Kiwi,34.02
+133,Cookies Cereal Nut,37.57
+134,Ice Cream - Chocolate,49.5
+135,Beef - Bresaola,42.16
+136,Soup V8 Roasted Red Pepper,44.64
+137,Coriander - Ground,15.46
+138,Fireball Whisky,15.4
+139,Tumeric,37.71
+140,Coffee - Dark Roast,29.83
+141,"Pail - 4l White, With Handle",43.39
+142,Horseradish - Prepared,12.27
+143,"Pasta - Gnocchi, Potato",19.29
+144,Lettuce - Iceberg,13.75
+145,"Pepper - Julienne, Frozen",29.55
+146,"Nut - Cashews, Whole, Raw",30.39
+147,Wine - Taylors Reserve,20.66
+148,Milk - Homo,3.08
+149,Lamb - Rack,16.27
+150,Guava,44.29
+151,Bread - Rosemary Focaccia,43.53
+152,Thyme - Fresh,49.02
+153,Vinegar - Champagne,16.44
+154,Pepper - Yellow Bell,23.45
+155,Truffle Shells - White Chocolate,12.58
+156,Bread - Rye,26.41
+157,Table Cloth 90x90 Colour,39.26
+158,Foie Gras,1.88
+159,"Soup - Clam Chowder, Dry Mix",9.81
+160,Tart - Butter Plain Squares,18.33
+161,"Rum - Light, Captain Morgan",45.25
+162,Pork - Backfat,42.58
+163,V8 Splash Strawberry Kiwi,2.17
+164,Canadian Emmenthal,48.19
+165,Lotus Leaves,3.37
+166,Guinea Fowl,5.01
+167,Cookie Dough - Chunky,35.35
+168,Ice Cream Bar - Oreo Cone,37.03
+169,Water - Spring Water 500ml,11.62
+170,"Ranchero - Primerba, Paste",13.83
+171,Oil - Pumpkinseed,4.44
+172,Beef - Eye Of Round,37.12
+173,Eggs - Extra Large,49.97
+174,Fond - Chocolate,4.12
+175,"Tortillas - Flour, 10",24.18
+176,Lamb Rack Frenched Australian,19.98
+177,Milkettes - 2%,9.31
+178,"Ecolab - Orange Frc, Cleaner",1.27
+179,Oil - Olive Bertolli,25.19
+180,"Juice - Grape, White",15.89
+181,Spice - Peppercorn Melange,43.22
+182,Catfish - Fillets,43.43
+183,Seaweed Green Sheets,32.98
+184,Wine - Chianti Classica Docg,8.92
+185,Munchies Honey Sweet Trail Mix,23.05
+186,Milk - 2% 250 Ml,42.17
+187,Syrup - Monin - Passion Fruit,9.12
+188,Wine - Guy Sage Touraine,40.95
+189,Cheese - Feta,46.79
+190,Muffin Mix - Morning Glory,19.42
+191,"Tart Shells - Savory, 3",21.4
+192,Piping - Bags Quizna,40.01
+193,"Stock - Veal, Brown",19.61
+194,Wine - Montecillo Rioja Crianza,17.92
+195,Sugar - Monocystal / Rock,30.9
+196,"Shrimp - 16/20, Iqf, Shell On",5.4
+197,Lady Fingers,45.06
+198,"Lobster - Baby, Boiled",7.52
+199,Grand Marnier,6.41
+200,Butter - Salted,6.7
+201,Rootbeer,4.72
+202,Appetizer - Crab And Brie,39.41
+203,Mint - Fresh,31.22
+204,Danishes - Mini Raspberry,6.72
+205,Wine - Cousino Macul Antiguas,3.22
+206,Cilantro / Coriander - Fresh,33.54
+207,Bacardi Breezer - Tropical,30.12
+208,Sugar - Icing,29.87
+209,Lid - 16 Oz And 32 Oz,44.31
+210,Horseradish Root,48.44
+211,Kiwi,46.4
+212,Cookie Dough - Peanut Butter,31.31
+213,Trout Rainbow Whole,16.13
+214,Mix - Cocktail Strawberry Daiquiri,47.65
+215,Coffee - Ristretto Coffee Capsule,28.63
+216,Oven Mitt - 13 Inch,32.7
+217,"Napkin - Beverge, White 2 - Ply",44.25
+218,"Chilli Paste, Sambal Oelek",31.21
+219,"Nut - Pecan, Halves",23.03
+220,Marjoram - Fresh,23.44
+221,"Juice - Tomato, 48 Oz",47.22
+222,Wine - Beringer Founders Estate,16.39
+223,Ecolab - Mikroklene 4/4 L,9.26
+224,Pork - Backs - Boneless,30.89
+225,"Salmon - Whole, 4 - 6 Pounds",8.77
+226,"Sugar - Brown, Individual",33.73
+227,Sorrel - Fresh,24.74
+228,Bread - Triangle White,4.76
+229,Shrimp - Black Tiger 6 - 8,42.14
+230,Beer - Pilsner Urquell,15.77
+231,"Bar Mix - Pina Colada, 355 Ml",42.49
+232,Taro Leaves,20.13
+233,Olives - Stuffed,18.3
+234,Cheese - Montery Jack,43.77
+235,"Oil - Truffle, Black",7.6
+236,Soup Campbells Turkey Veg.,11.31
+237,Honey - Comb,11.7
+238,Lumpfish Black,17.69
+239,"Wine - Red, Cabernet Sauvignon",38.67
+240,Pepper - Gypsy Pepper,1.47
+241,Corn Shoots,20.08
+242,Yogurt - Assorted Pack,46.27
+243,"Potatoes - Purple, Organic",21.04
+244,Cassis,9.31
+245,Coffee Guatemala Dark,45.25
+246,Devonshire Cream,40.28
+247,Bread - French Baquette,3.99
+248,Island Oasis - Magarita Mix,5.51
+249,Onions - Pearl,9.51
+250,Appetizer - Smoked Salmon / Dill,6.48
+251,White Baguette,7.04
+252,Compound - Strawberry,29.48
+253,Coffee - Cafe Moreno,13.57
+254,Soupfoamcont12oz 112con,1.85
+255,Momiji Oroshi Chili Sauce,26.83
+256,Bread - Italian Roll With Herbs,35.67
+257,"Juice - V8, Tomato",37.61
+258,Mortadella,32.32
+259,Cheese - Swiss Sliced,31.58
+260,"Oil - Shortening,liqud, Fry",41.73
+261,Cheese - Montery Jack,39.22
+262,Banana - Leaves,49.93
+263,Wine - Barolo Fontanafredda,32.7
+264,Crab - Soft Shell,4.83
+265,"Lid - High Heat, Super Clear",38.86
+266,Yams,12.11
+267,Table Cloth 54x54 White,46.53
+268,Parsnip,25.64
+269,Shrimp - Prawn,27.1
+270,Shrimp - Tiger 21/25,45.26
+271,Godiva White Chocolate,23.65
+272,Island Oasis - Ice Cream Mix,43.15
+273,Cheese - Shred Cheddar / Mozza,12.36
+274,Calvados - Boulard,9.69
+275,Muffin - Carrot Individual Wrap,31.45
+276,"Soup - Campbells, Classic Chix",8.42
+277,Butter - Unsalted,10.63
+278,"Wine - Red, Gallo, Merlot",13.37
+279,Energy Drink,11.02
+280,Dawn Professionl Pot And Pan,48.05
+281,Puff Pastry - Sheets,12.17
+282,Cake - Box Window 10x10x2.5,41.88
+283,Wine - Rioja Campo Viejo,49.95
+284,Pear - Prickly,25.18
+285,Melon - Watermelon Yellow,3.86
+286,Tomato - Tricolor Cherry,26.52
+287,Soap - Pine Sol Floor Cleaner,34.93
+288,Tea - Earl Grey,43.93
+289,Lid - 0090 Clear,43.29
+290,Coffee - Frthy Coffee Crisp,49.67
+291,Chocolate - Dark Callets,47.56
+292,Blouse / Shirt / Sweater,14.15
+293,"Crab - Blue, Frozen",33.02
+294,Carbonated Water - Lemon Lime,43.51
+295,Wine - Montecillo Rioja Crianza,22.16
+296,"Red Snapper - Fresh, Whole",12.81
+297,Wine - Barolo Fontanafredda,17.74
+298,Kumquat,2.07
+299,Halibut - Fletches,7.01
+300,Milk - Buttermilk,47.59
+301,Pants Custom Dry Clean,28.92
+302,"Lemonade - Strawberry, 591 Ml",1.93
+303,Bread - Frozen Basket Variety,27.98
+304,Cheese - Augre Des Champs,2.87
+305,Creamers - 10%,32.67
+306,Cod - Fillets,17.81
+307,Nantucket Orange Juice,41.69
+308,Bread - Hamburger Buns,11.24
+309,Coffee - Cafe Moreno,48.85
+310,Flavouring - Raspberry,3.91
+311,Truffle - Whole Black Peeled,49.98
+312,Wine - White Cab Sauv.on,47.1
+313,Bread Ww Cluster,15.61
+314,Shrimp - Black Tiger 6 - 8,28.74
+315,Pepper - Pablano,14.21
+316,Bread - Granary Small Pull,2.5
+317,Cocoa Feuilletine,14.51
+318,"Soup - Campbells, Butternut",47.18
+319,Huck White Towels,17.38
+320,Wine - Two Oceans Cabernet,23.68
+321,Wine - Wyndham Estate Bin 777,5.53
+322,Wine - Piper Heidsieck Brut,24.68
+323,"Soup - Campbells, Spinach Crm",46.17
+324,Spic And Span All Purpose,40.17
+325,Nescafe - Frothy French Vanilla,4.09
+326,Icecream Bar - Del Monte,32.48
+327,Brandy - Bar,5.92
+328,Carbonated Water - Cherry,20.11
+329,Bread Roll Foccacia,25.66
+330,Flounder - Fresh,39.6
+331,Oneshot Automatic Soap System,6.54
+332,Corn - On The Cob,31.11
+333,Muffin Puck Ww Carrot,18.5
+334,Sobe - Berry Energy,17.27
+335,Chips - Miss Vickies,18.33
+336,Pastry - Apple Large,4.33
+337,Muffin Chocolate Individual Wrap,46.41
+338,Chef Hat 20cm,32.11
+339,"Sauce - Bernaise, Mix",37.51
+340,Kiwano,23.23
+341,Cheese - Gorgonzola,6.09
+342,Squid Ink,48.85
+343,Tea - Herbal I Love Lemon,18.64
+344,"Basil - Primerba, Paste",30.59
+345,Sprouts - Peppercress,12.26
+346,Avocado,48.57
+347,Crab - Meat Combo,17.11
+348,Cabbage - Savoy,34.74
+349,Cheese - Colby,48.24
+350,"Soup - Campbells, Chix Gumbo",7.69
+351,Tea - Herbal Sweet Dreams,6.18
+352,"Tea - Darjeeling, Azzura",24.22
+353,Pork Casing,49.58
+354,Sauce - Hp,14.74
+355,Ecolab - Hobart Washarm End Cap,18.04
+356,Olives - Kalamata,20.74
+357,Pears - Anjou,39.62
+358,Sobe - Green Tea,25.6
+359,Potatoes - Yukon Gold 5 Oz,22.82
+360,Bread - Mini Hamburger Bun,10.17
+361,Pork - Belly Fresh,15.14
+362,"Sauce - Bernaise, Mix",40.51
+363,Apples - Spartan,33.59
+364,Ostrich - Prime Cut,13.78
+365,Pepper - Roasted Red,19.51
+366,Sobe - Berry Energy,16.61
+367,"Turkey - Breast, Smoked",12.34
+368,Wine - Sake,33.93
+369,Ice Cream - Super Sandwich,49.37
+370,Cinnamon - Ground,1.51
+371,"Beef - Bones, Marrow",44.19
+372,Energy Drink,17.62
+373,Chicken - Bones,38.4
+374,Cheese - Sheep Milk,14.19
+375,Pernod,47.34
+376,"Appetizer - Spring Roll, Veg",19.73
+377,Syrup - Monin - Blue Curacao,13.35
+378,Sesame Seed,9.74
+379,Sobe - Liz Blizz,34.92
+380,Wine - Peller Estates Late,14.62
+381,Pork Casing,27.66
+382,Flavouring - Orange,33.51
+383,Wine - Beaujolais Villages,9.55
+384,Sugar - Splenda Sweetener,8.68
+385,Soup Campbells - Tomato Bisque,16.1
+386,"Champagne - Brights, Dry",48.66
+387,Shallots,32.82
+388,Bread - Raisin Walnut Oval,25.35
+389,"Veal - Leg, Provimi - 50 Lb Max",4.03
+390,"Cup - 3.5oz, Foam",14.55
+391,Country Roll,45.04
+392,Pie Filling - Cherry,40.14
+393,Ecolab Digiclean Mild Fm,28.92
+394,Cheese Cloth No 60,18.72
+395,Sunflower Seed Raw,19.51
+396,"Fish - Halibut, Cold Smoked",28.18
+397,Nantucket Apple Juice,34.29
+398,Pizza Pizza Dough,21.13
+399,Bacardi Breezer - Tropical,23.65
+400,Couscous,16.69
+401,Venison - Racks Frenched,8.05
+402,Lemonade - Pineapple Passion,23.56
+403,Sardines,17.42
+404,Cheese Cheddar Processed,22.45
+405,Flax Seed,19.56
+406,Longos - Chicken Wings,34.76
+407,Pate - Cognac,2.1
+408,Muffin - Bran Ind Wrpd,6.75
+409,Cake - Mini Cheesecake,22.0
+410,Nantucket - Pomegranate Pear,6.83
+411,Juice - Apple 284ml,18.82
+412,Wine - Soave Folonari,38.45
+413,Egg - Salad Premix,25.08
+414,Pasta - Canelloni,1.47
+415,Bread - Petit Baguette,11.81
+416,"Mustard - Dry, Powder",3.8
+417,Coffee Cup 12oz 5342cd,5.97
+418,Scampi Tail,5.21
+419,Pastry - Butterscotch Baked,27.11
+420,Wine - Port Late Bottled Vintage,44.75
+421,Apple - Macintosh,36.61
+422,Wine - Manischewitz Concord,49.18
+423,Steampan - Lid For Half Size,49.65
+424,Appetizer - Mushroom Tart,8.68
+425,Sunflower Seed Raw,21.26
+426,Mints - Striped Red,10.38
+427,Wine - Sauvignon Blanc,29.53
+428,"Coke - Diet, 355 Ml",19.37
+429,Beef - Top Sirloin,26.22
+430,Curry Paste - Madras,32.79
+431,Island Oasis - Pina Colada,29.79
+432,"Lobster - Baby, Boiled",3.96
+433,Pepper - Chili Powder,4.43
+434,Flour - Semolina,27.93
+435,Pork Loin Bine - In Frenched,1.09
+436,Tea - Herbal I Love Lemon,43.4
+437,"Yogurt - Cherry, 175 Gr",12.38
+438,Wine - Mondavi Coastal Private,26.3
+439,Chicken - Bones,22.9
+440,Mushrooms - Honey,33.78
+441,Rice - 7 Grain Blend,33.35
+442,Rabbit - Whole,47.9
+443,Crab - Meat Combo,15.87
+444,"Soup - Knorr, Ministrone",34.26
+445,Mustard - Dijon,7.65
+446,The Pop Shoppe - Grape,27.12
+447,Beer - Sleemans Honey Brown,44.22
+448,Compound - Mocha,2.25
+449,Lychee,7.33
+450,"Tart Shells - Sweet, 3",7.08
+451,Beets,27.79
+452,Lamb - Loin Chops,3.12
+453,Lid Coffeecup 12oz D9542b,31.82
+454,Tuna - Fresh,41.25
+455,"Turnip - White, Organic",38.17
+456,"Vermouth - Sweet, Cinzano",27.39
+457,Truffle Cups - Red,45.46
+458,Cookies - Englishbay Oatmeal,48.86
+459,Pate - Cognac,31.95
+460,Energy Drink - Franks Original,22.87
+461,Beef - Montreal Smoked Brisket,38.84
+462,Buttons,2.58
+463,Pastry - Apple Large,4.0
+464,Cheese - Asiago,17.44
+465,Pastry - Choclate Baked,46.92
+466,Arizona - Green Tea,5.69
+467,Melon - Watermelon Yellow,30.84
+468,Sambuca - Opal Nera,36.92
+469,Wine - Redchard Merritt,9.7
+470,Mushroom - White Button,1.43
+471,Cod - Fillets,37.27
+472,Onion Powder,25.54
+473,Sword Pick Asst,38.44
+474,Salad Dressing,4.97
+475,Wine - Prosecco Valdobienne,36.64
+476,Sauce - Oyster,20.99
+477,"Liqueur Banana, Ramazzotti",39.22
+478,Lamb Rack - Ontario,1.93
+479,Crackers - Soda / Saltins,3.41
+480,Scampi Tail,2.63
+481,Tea - Black Currant,47.9
+482,Muffin Puck Ww Carrot,47.58
+483,Vinegar - Rice,35.38
+484,Wine - Chablis J Moreau Et Fils,19.61
+485,Pepper - Gypsy Pepper,12.2
+486,Carbonated Water - Blackcherry,41.17
+487,Shrimp - Black Tiger 8 - 12,9.58
+488,Isomalt,2.4
+489,Beer - Pilsner Urquell,20.08
+490,Cheese - Swiss Sliced,40.08
+491,Poppy Seed,2.9
+492,Pizza Pizza Dough,3.98
+493,Soup - Campbells Bean Medley,11.37
+494,"Bread - Pumpernickle, Rounds",7.61
+495,Walkers Special Old Whiskey,3.77
+496,Sambuca - Opal Nera,10.81
+497,"Wine - White, French Cross",10.6
+498,Salt - Celery,19.77
+499,Pepper - Roasted Red,23.97
+500,"Chicken - Leg, Fresh",2.34
+501,Chickhen - Chicken Phyllo,44.68
+502,"Bread - Rolls, Rye",20.89
+503,"Cheese - Havarti, Salsa",31.54
+504,Veal - Slab Bacon,14.47
+505,Table Cloth 54x54 White,2.67
+506,Bread - French Baquette,23.29
+507,Goat - Leg,12.75
+508,Cookie Double Choco,21.12
+509,"Shrimp - 16/20, Peeled Deviened",35.14
+510,Puree - Blackcurrant,30.31
+511,Cumin - Ground,18.68
+512,Turnip - Mini,2.7
+513,"Peas - Pigeon, Dry",9.17
+514,Juice - Orange,8.77
+515,"Quail - Whole, Bone - In",19.94
+516,Remy Red,18.37
+517,Sugar - Icing,16.97
+518,Bar Special K,16.78
+519,"Water - Spring Water, 355 Ml",26.95
+520,Wine - Lou Black Shiraz,1.07
+521,Wine - Chablis J Moreau Et Fils,35.07
+522,"Veal - Brisket, Provimi,bnls",38.16
+523,Kaffir Lime Leaves,38.38
+524,Pears - Bosc,36.56
+525,"Pasta - Detalini, White, Fresh",19.68
+526,Cafe Royale,15.18
+527,Papadam,43.23
+528,"Vermouth - White, Cinzano",17.63
+529,Wine - Pinot Noir Pond Haddock,31.34
+530,Longos - Lasagna Veg,43.3
+531,"Nut - Chestnuts, Whole",32.11
+532,"Soup - Canadian Pea, Dry Mix",23.18
+533,Glycerine,17.89
+534,Beets,12.87
+535,Tomatoes - Heirloom,12.37
+536,"Bread - Roll, Soft White Round",28.67
+537,Sauce - Caesar Dressing,6.61
+538,"Fish - Atlantic Salmon, Cold",26.42
+539,Pork Casing,14.46
+540,"Sauce - Apple, Unsweetened",13.07
+541,"Lamb - Leg, Diced",30.21
+542,Pork - Back Ribs,2.49
+543,Calvados - Boulard,9.65
+544,Paper - Brown Paper Mini Cups,35.28
+545,Chocolate - Dark,2.11
+546,Soup - Verve - Chipotle Chicken,2.51
+547,Dehydrated Kelp Kombo,36.39
+548,"7up Diet, 355 Ml",24.79
+549,Bar Mix - Lime,35.19
+550,Wine - Chardonnay South,40.42
+551,Muffin - Blueberry Individual,25.83
+552,Wine - Barossa Valley Estate,24.13
+553,Bar Mix - Lime,48.89
+554,Wine - Beringer Founders Estate,5.87
+555,Blackberries,6.03
+556,"Tomatoes - Cherry, Yellow",17.01
+557,Galliano,40.04
+558,"Club Soda - Schweppes, 355 Ml",14.32
+559,Pork - Ham Hocks - Smoked,32.52
+560,Pork - Hock And Feet Attached,3.25
+561,Sugar - Individual Portions,48.84
+562,Onions - Vidalia,13.65
+563,Raisin - Dark,29.38
+564,"Crush - Orange, 355ml",32.45
+565,Wine - Gato Negro Cabernet,49.36
+566,Soup - Campbells - Tomato,49.39
+567,Tuna - Sushi Grade,43.96
+568,Nantucket Pine Orangebanana,49.41
+569,Veal - Osso Bucco,6.21
+570,Lamb - Shanks,35.83
+571,Sorrel - Fresh,25.09
+572,Milk - Skim,32.71
+573,Wine - Marlbourough Sauv Blanc,22.6
+574,Compound - Pear,17.39
+575,Papayas,25.91
+576,Juice - Mango,43.55
+577,"Beef - Baby, Liver",8.83
+578,Cheese - Parmesan Cubes,29.7
+579,Potatoes - Peeled,43.9
+580,Chambord Royal,44.7
+581,"Pepper - Black, Whole",25.58
+582,Pur Source,42.98
+583,"Capon - Breast, Wing On",30.8
+584,Cake - Mini Potato Pancake,13.72
+585,Oil - Coconut,40.14
+586,Chicken - Whole Roasting,37.19
+587,Chicken - Whole Fryers,48.93
+588,Devonshire Cream,14.23
+589,"Pasta - Lasagna, Dry",3.76
+590,Bread - Calabrese Baguette,34.18
+591,Cheese - Swiss,48.26
+592,Duck - Legs,47.52
+593,Bread - Rosemary Focaccia,49.62
+594,Sauce - Soy Low Sodium - 3.87l,4.96
+595,"Carrots - Purple, Organic",10.91
+596,Cinnamon Buns Sticky,21.62
+597,"Brandy - Orange, Mc Guiness",37.32
+598,Pork - Backs - Boneless,4.96
+599,Bar Mix - Lemon,6.69
+600,Chocolate - Dark,31.6
+601,Beef - Top Sirloin,6.14
+602,Cheese Cloth No 100,49.63
+603,Potatoes - Idaho 100 Count,6.77
+604,Cookies Almond Hazelnut,14.86
+605,"Potatoes - Purple, Organic",4.51
+606,Wine - Alsace Gewurztraminer,9.73
+607,"Pepper - Black, Ground",27.03
+608,Asparagus - Mexican,41.39
+609,Basil - Fresh,15.13
+610,"Lid - Translucent, 3.5 And 6 Oz",7.69
+611,Wine - Chablis J Moreau Et Fils,5.83
+612,Flower - Commercial Bronze,31.87
+613,"Veal - Tenderloin, Untrimmed",12.42
+614,Wine - Balbach Riverside,47.33
+615,"Veal - Tenderloin, Untrimmed",37.95
+616,"Tart Shells - Sweet, 2",38.33
+617,Kiwi,22.49
+618,Flour - Teff,7.46
+619,Chocolate - Milk Coating,34.98
+620,Chicken - Livers,12.17
+621,Blue Curacao - Marie Brizard,7.74
+622,"Lamb - Loin, Trimmed, Boneless",10.23
+623,Bagelers - Cinn / Brown Sugar,30.46
+624,Chocolate - White,14.79
+625,Cinnamon - Stick,15.24
+626,"Tortillas - Flour, 8",33.98
+627,Cheese - Provolone,3.1
+628,Chinese Foods - Thick Noodles,1.26
+629,Quiche Assorted,5.71
+630,Higashimaru Usukuchi Soy,14.71
+631,Extract - Raspberry,12.17
+632,"Beef - Baby, Liver",38.61
+633,"Beer - Alexander Kieths, Pale Ale",30.45
+634,Appetizer - Smoked Salmon / Dill,27.43
+635,Nantucket - Pomegranate Pear,2.37
+636,"Lamb - Shoulder, Boneless",34.81
+637,Lentils - Green Le Puy,11.28
+638,Bread - Olive Dinner Roll,12.86
+639,"Soup - Knorr, Ministrone",29.37
+640,"Lamb - Shoulder, Boneless",40.41
+641,Sea Bass - Whole,26.99
+642,Lid Tray - 16in Dome,47.36
+643,Cookies - Englishbay Chochip,4.36
+644,Bacardi Raspberry,9.76
+645,"Wine - White, Schroder And Schyl",26.35
+646,"Water - Mineral, Carbonated",12.75
+647,Cocoa Powder - Natural,36.82
+648,Buffalo - Short Rib Fresh,4.27
+649,"Syrup - Monin, Amaretta",21.38
+650,Fennel - Seeds,29.97
+651,Celery Root,25.16
+652,Garam Marsala,38.1
+653,Red Currant Jelly,26.3
+654,Crackers - Soda / Saltins,43.63
+655,Oil - Olive,30.49
+656,Appetizer - Sausage Rolls,31.68
+657,Squash - Butternut,26.89
+658,Chips - Miss Vickies,27.25
+659,"Bread - Sticks, Thin, Plain",43.11
+660,"Lemonade - Natural, 591 Ml",40.65
+661,Wine - Casillero Del Diablo,47.14
+662,Ginger - Pickled,20.37
+663,Kaffir Lime Leaves,47.39
+664,Soup - Campbells Mushroom,7.85
+665,Fish - Bones,15.85
+666,Mcgillicuddy Vanilla Schnap,6.81
+667,Apricots - Halves,18.22
+668,Fenngreek Seed,26.5
+669,Plums - Red,22.85
+670,Yeast Dry - Fermipan,34.05
+671,Sprouts - Bean,44.73
+672,Jagermeister,4.22
+673,Bar - Sweet And Salty Chocolate,25.86
+674,Sage Derby,37.31
+675,"Salmon - Whole, 4 - 6 Pounds",15.13
+676,Southern Comfort,37.8
+677,Pants Custom Dry Clean,36.41
+678,Cup - Translucent 7 Oz Clear,39.31
+679,Wine - Piper Heidsieck Brut,3.71
+680,Eggroll,46.64
+681,Shrimp - Black Tiger 8 - 12,41.26
+682,Parasol Pick Stir Stick,27.19
+683,Sultanas,37.76
+684,Ice Cream - Life Savers,20.71
+685,Pepper - Red Bell,33.23
+686,Corn - Mini,11.71
+687,V8 Pet,38.56
+688,Jameson - Irish Whiskey,28.58
+689,Beef - Shank,30.19
+690,Soup - Campbells Chicken,14.95
+691,Ostrich - Prime Cut,29.04
+692,Oil - Canola,10.8
+693,Worcestershire Sauce,48.71
+694,Bay Leaf Ground,28.71
+695,Kumquat,25.43
+696,Daikon Radish,1.89
+697,Pork - Backs - Boneless,46.73
+698,Tarragon - Fresh,17.83
+699,"Vermouth - Sweet, Cinzano",50.0
+700,The Pop Shoppe - Root Beer,34.11
+701,Lettuce - Sea / Sea Asparagus,6.7
+702,Chocolate - Dark,18.48
+703,Kirsch - Schloss,34.42
+704,Pork - Side Ribs,28.81
+705,Orange - Blood,27.31
+706,Pastry - Banana Muffin - Mini,32.48
+707,"Bread - Pumpernickle, Rounds",23.58
+708,Oil - Margarine,45.94
+709,"Soup - Campbells, Chix Gumbo",45.77
+710,"Zucchini - Mini, Green",3.69
+711,"Chicken - Base, Ultimate",21.18
+712,Cookie Trail Mix,13.36
+713,Calypso - Lemonade,2.35
+714,"Wine - White, Ej Gallo",5.0
+715,Whmis Spray Bottle Graduated,24.84
+716,Pears - Bartlett,16.12
+717,Nantucket - Carrot Orange,23.72
+718,Juice - Ocean Spray Cranberry,32.97
+719,Cocoa Feuilletine,6.33
+720,Ice Cream - Chocolate,42.56
+721,Shrimp - 31/40,13.37
+722,"Beans - Turtle, Black, Dry",12.08
+723,"Stock - Chicken, White",24.28
+724,Cafe Royale,24.55
+725,Lobster - Base,48.5
+726,"Tomatoes - Cherry, Yellow",33.52
+727,Compound - Strawberry,22.37
+728,"Rosemary - Primerba, Paste",35.77
+729,Muffin Mix - Oatmeal,32.37
+730,Oranges,12.6
+731,Onions - Spanish,30.77
+732,"Wine - Red, Mosaic Zweigelt",42.16
+733,"Oil - Truffle, White",28.24
+734,White Baguette,14.34
+735,Langers - Mango Nectar,27.21
+736,Wine - Shiraz Wolf Blass Premium,30.58
+737,Myers Planters Punch,21.43
+738,Kippers - Smoked,43.27
+739,"Cheese - Brie,danish",44.61
+740,Soup Campbells Turkey Veg.,39.8
+741,Canada Dry,1.94
+742,"Yogurt - Strawberry, 175 Gr",18.65
+743,Nacho Chips,41.46
+744,"Crab - Dungeness, Whole, live",13.91
+745,"Chicken - White Meat, No Tender",5.12
+746,Carrots - Mini Red Organic,47.28
+747,Wine - Acient Coast Caberne,12.15
+748,Tea - Earl Grey,2.49
+749,Beef - Tenderloin - Aa,2.63
+750,Sobe - Lizard Fuel,18.34
+751,Mayonnaise - Individual Pkg,24.7
+752,Sloe Gin - Mcguinness,10.3
+753,Lamb - Bones,46.42
+754,Wanton Wrap,2.58
+755,Cheese - St. Paulin,31.87
+756,"Chocolate - Pistoles, White",40.38
+757,Nestea - Iced Tea,21.15
+758,Cod - Black Whole Fillet,4.7
+759,Prunes - Pitted,21.77
+760,Kale - Red,13.78
+761,Wine - Ruffino Chianti,49.87
+762,Yoplait Drink,14.42
+763,Wild Boar - Tenderloin,21.27
+764,"Yeast - Fresh, Fleischman",37.32
+765,"Chicken - Wings, Tip Off",31.92
+766,Soho Lychee Liqueur,47.77
+767,Yoplait Drink,5.83
+768,"Doilies - 7, Paper",31.8
+769,Mountain Dew,40.13
+770,Veal - Ground,22.85
+771,Beer - Sleemans Honey Brown,32.29
+772,Lid - 16 Oz And 32 Oz,16.09
+773,Pails With Lids,7.94
+774,Towel - Roll White,21.8
+775,Flower - Potmums,44.45
+776,Trueblue - Blueberry,25.07
+777,Broom And Brush Rack Black,32.13
+778,"Brocolinni - Gaylan, Chinese",39.48
+779,Tandoori Curry Paste,19.59
+780,Beer - Moosehead,32.37
+781,Peas - Frozen,48.93
+782,Bread - Onion Focaccia,1.47
+783,Soup - Campbellschix Stew,7.69
+784,"Soup - Knorr, Classic Can. Chili",22.35
+785,"Veal - Insides, Grains",46.36
+786,Aspic - Clear,12.2
+787,Wine - German Riesling,45.09
+788,Temperature Recording Station,49.93
+789,Chocolate Eclairs,45.47
+790,Gatorade - Cool Blue Raspberry,26.69
+791,Egg - Salad Premix,3.3
+792,Ice Cream Bar - Hagen Daz,15.39
+793,"Beef - Cooked, Corned",26.96
+794,Cheese - Grana Padano,39.25
+795,Veal - Provimi Inside,24.31
+796,Sauce Bbq Smokey,22.93
+797,Cheese - Bakers Cream Cheese,7.59
+798,Beef - Tenderloin Tails,36.32
+799,Beef Tenderloin Aaa,41.26
+800,Wine - Black Tower Qr,9.72
+801,Wine - Touraine Azay - Le - Rideau,30.56
+802,Kolrabi,10.78
+803,Bag - Regular Kraft 20 Lb,9.91
+804,Extract - Raspberry,3.94
+805,Chips Potato Swt Chilli Sour,40.66
+806,Goat - Whole Cut,34.6
+807,Longos - Grilled Chicken With,11.85
+808,Snails - Large Canned,38.07
+809,"Chilli Paste, Sambal Oelek",29.77
+810,Vodka - Moskovskaya,26.82
+811,Spring Roll Veg Mini,46.27
+812,"Pasta - Gnocchi, Potato",2.86
+813,Chickhen - Chicken Phyllo,37.89
+814,Sweet Pea Sprouts,27.51
+815,"Lamb - Leg, Boneless",18.03
+816,"Bread - Pita, Mini",24.52
+817,Dill Weed - Dry,44.81
+818,Water - Green Tea Refresher,41.89
+819,"Oregano - Dry, Rubbed",46.77
+820,"Beans - Long, Chinese",21.42
+821,Chutney Sauce - Mango,30.59
+822,Bread Sour Rolls,25.95
+823,Marzipan 50/50,14.1
+824,Oil - Macadamia,18.97
+825,Longos - Greek Salad,30.77
+826,Wine - Chardonnay South,33.37
+827,Soupcontfoam16oz 116con,14.31
+828,Oven Mitts 17 Inch,20.74
+829,Halibut - Steaks,33.73
+830,Yukon Jack,37.82
+831,Hummus - Spread,17.41
+832,Pasta - Canelloni,20.37
+833,Cheese - St. Andre,30.04
+834,Toamtoes 6x7 Select,4.5
+835,Pears - Anjou,21.76
+836,Pumpkin,15.89
+837,Sardines,10.09
+838,Dome Lid Clear P92008h,44.59
+839,Carbonated Water - Lemon Lime,11.61
+840,The Pop Shoppe Pinapple,36.4
+841,Dikon,44.9
+842,"Bread - Rolls, Corn",18.68
+843,Beer - Molson Excel,2.53
+844,Cherries - Fresh,36.43
+845,The Pop Shoppe Pinapple,37.76
+846,Hagen Daza - Dk Choocolate,37.61
+847,Cheese - Grana Padano,19.3
+848,Lemon Pepper,30.13
+849,Cookie Choc,12.21
+850,Campari,31.87
+851,Sardines,42.29
+852,Dill Weed - Fresh,18.28
+853,"Veal - Brisket, Provimi,bnls",22.11
+854,Sage Ground Wiberg,30.41
+855,Dried Cherries,45.47
+856,Curry Powder,12.23
+857,Sour Puss Raspberry,20.87
+858,"Veal - Inside, Choice",47.58
+859,"Noodles - Cellophane, Thin",27.22
+860,Jolt Cola,35.15
+861,Beer - Moosehead,22.53
+862,Flounder - Fresh,25.42
+863,Butter Ripple - Phillips,38.75
+864,"Pork - Ham, Virginia",39.54
+865,Salmon - Canned,35.34
+866,Lamb - Loin Chops,36.18
+867,"Beef - Roasted, Cooked",33.01
+868,Cattail Hearts,25.33
+869,Cheese - Augre Des Champs,41.84
+870,Chicken - Whole Roasting,16.74
+871,Bread - Corn Muffaleta Onion,42.61
+872,Cookies Almond Hazelnut,15.56
+873,Uniform Linen Charge,39.26
+874,"Wine - Red, Black Opal Shiraz",39.42
+875,Wine - Maipo Valle Cabernet,2.85
+876,"Appetizer - Spring Roll, Veg",36.42
+877,"Pasta - Lasagna, Dry",39.03
+878,"Trout - Rainbow, Frozen",22.22
+879,Spice - Peppercorn Melange,27.53
+880,Pail For Lid 1537,13.76
+881,Ecolab - Lime - A - Way 4/4 L,47.5
+882,Steampan - Lid For Half Size,14.75
+883,Wine - Lamancha Do Crianza,39.65
+884,Cookies - Englishbay Oatmeal,11.75
+885,Garlic - Elephant,35.04
+886,Pike - Frozen Fillet,13.64
+887,Boogies,46.14
+888,Cheese - Mascarpone,21.93
+889,Salami - Genova,16.51
+890,Puff Pastry - Sheets,13.76
+891,Garlic - Elephant,49.07
+892,Milkettes - 2%,48.04
+893,Pasta - Agnolotti - Butternut,7.71
+894,Wine - Two Oceans Sauvignon,17.36
+895,Wine - Balbach Riverside,31.66
+896,"Pasta - Lasagna, Dry",1.71
+897,"Vodka - Lemon, Absolut",29.97
+898,Soup - Campbells - Tomato,40.62
+899,Table Cloth 62x120 Colour,40.91
+900,Pate - Peppercorn,15.67
+901,Guinea Fowl,38.99
+902,Wine - Baron De Rothschild,36.95
+903,Lettuce - Treviso,38.44
+904,Island Oasis - Cappucino Mix,28.51
+905,"Stock - Beef, Brown",38.72
+906,Table Cloth 72x144 White,1.78
+907,Kellogs All Bran Bars,6.96
+908,Radish - Pickled,10.62
+909,Pork - Liver,16.56
+910,Mikes Hard Lemonade,33.89
+911,Cinnamon Rolls,25.99
+912,Fruit Salad Deluxe,28.47
+913,Muffin - Mix - Strawberry Rhubarb,1.91
+914,"Jam - Raspberry,jar",6.66
+915,Chickensplit Half,12.44
+916,Bacardi Breezer - Strawberry,40.9
+917,Tomato Paste,3.56
+918,Bread - French Stick,17.84
+919,Carbonated Water - Orange,11.41
+920,Ginsing - Fresh,11.13
+921,Tea - Herbal Orange Spice,15.86
+922,Beer - Upper Canada Lager,22.03
+923,"Pasta - Tortellini, Fresh",6.3
+924,Coffee - Dark Roast,17.5
+925,Ginger - Pickled,26.99
+926,Glaze - Apricot,41.61
+927,"Tortillas - Flour, 10",16.16
+928,"Lid - Translucent, 3.5 And 6 Oz",40.14
+929,Potatoes - Pei 10 Oz,6.03
+930,Beef - Tenderloin - Aa,36.34
+931,Nut - Macadamia,44.54
+932,Sauce - Soy Low Sodium - 3.87l,10.84
+933,Pizza Pizza Dough,44.09
+934,"Onions - Dried, Chopped",48.59
+935,Numi - Assorted Teas,12.55
+936,Yogurt - Assorted Pack,18.86
+937,"Onions - Dried, Chopped",18.7
+938,"Cheese - Mozzarella, Shredded",16.88
+939,Raisin - Golden,49.92
+940,Cranberries - Frozen,28.91
+941,Beer - Upper Canada Light,18.21
+942,Guava,4.28
+943,Rhubarb,40.86
+944,Wine - Crozes Hermitage E.,2.82
+945,Remy Red Berry Infusion,16.49
+946,Parsley Italian - Fresh,1.84
+947,"Coke - Diet, 355 Ml",35.8
+948,"Nut - Almond, Blanched, Ground",28.41
+949,"Wine - Red, Gallo, Merlot",45.88
+950,Kiwi,42.1
+951,Chip - Potato Dill Pickle,46.36
+952,Wine - Malbec Trapiche Reserve,20.03
+953,Stock - Fish,23.41
+954,Bag Clear 10 Lb,4.89
+955,Bread - Corn Muffaletta,35.97
+956,"Wine - Harrow Estates, Vidal",27.82
+957,Wiberg Cure,32.45
+958,"Basil - Primerba, Paste",11.7
+959,Calypso - Black Cherry Lemonade,14.57
+960,Creme De Cacao White,39.37
+961,Dome Lid Clear P92008h,7.42
+962,Gelatine Leaves - Envelopes,5.51
+963,Sun - Dried Tomatoes,5.8
+964,Wine - Sauvignon Blanc,14.36
+965,Potatoes - Idaho 80 Count,2.23
+966,Curry Powder,19.29
+967,"Wine - Red, Cabernet Merlot",1.44
+968,"Lamb - Racks, Frenched",42.83
+969,"Iced Tea - Lemon, 340ml",21.41
+970,"Oil - Shortening,liqud, Fry",44.47
+971,"Shrimp - 16/20, Peeled Deviened",33.64
+972,Bar Nature Valley,6.18
+973,Cheese - Oka,32.57
+974,Soup Bowl Clear 8oz92008,49.37
+975,Wine - Prosecco Valdobienne,23.12
+976,Honey - Comb,3.68
+977,Milk 2% 500 Ml,37.45
+978,Daves Island Stinger,48.42
+979,Sorrel - Fresh,16.08
+980,Tea - Herbal I Love Lemon,33.43
+981,"Bread - Bagels, Plain",35.16
+982,Kale - Red,25.6
+983,Sugar - Palm,17.71
+984,Wine - Trimbach Pinot Blanc,6.51
+985,Rice - Wild,3.87
+986,"Veal - Leg, Provimi - 50 Lb Max",47.86
+987,Potatoes - Pei 10 Oz,46.23
+988,Lettuce - Lambs Mash,44.3
+989,Tamarillo,36.39
+990,Energy Drink - Franks Pineapple,18.79
+991,"Lamb - Whole Head Off,nz",40.32
+992,"Brandy - Orange, Mc Guiness",41.23
+993,Water - Perrier,25.67
+994,Soupcontfoam16oz 116con,9.51
+995,Worcestershire Sauce,25.53
+996,Sugar - Brown,12.28
+997,Fennel,6.86
+998,"Bread - Roll, Whole Wheat",33.51
+999,Pastry - Cheese Baked Scones,7.43
+1000,Sobe - Berry Energy,43.25
