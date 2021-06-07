@@ -6,9 +6,9 @@
 ## Progresso 📈
 
 - [x] Módulo 1 - Introdução à linguagem Python
-- [ ] Módulo 2 - Orientação a bbjetos
-- [ ] Módulo 3 - Banco de dados
-- [ ] Módulo 4 - Operações em banco de dados
+- [x] Módulo 2 - Orientação a bbjetos
+- [x] Módulo 3 - Banco de dados
+- [x] Módulo 4 - Operações em banco de dados
 - [ ] Módulo 5 - Bibliotecas científicas
 - [ ] Módulo 6 - Exibição e apresentação de dados
 
