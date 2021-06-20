@@ -149,3 +149,4 @@ from tb_cliente c
 join tb_pedido as p on c.id_cliente = p.id_cliente
 group by c.nome 
 order by valor_total_pedidos desc;
+
